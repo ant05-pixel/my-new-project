@@ -16,3 +16,8 @@ While the AI methods could include collaborative filtering, used to recommend co
 
 # How is it used?
 The user can provide all their preferences, then the system evaluates different configurations, returning the top 3 to 5 configurations explaining why each configuration satisfies the user’s requests.
+
+# Example
+A user with: large budget, focus on track use, preference for carbon fiber and "total black look". They will receive as their first configuration for their 296 the following:
+
+An all black configuration with Fiorano package: 
