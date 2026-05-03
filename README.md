@@ -2,6 +2,7 @@
 Building AI course project
 
 ## Summary
+
 This project proposes an AI-powered recommendation system that assists users in selecting the optimal car configuration based on their preferences, budget, and intended usage. The system should analyze user needs and compare them with historical configuration data and vehicle specifications to generate personalized recommendations.
 
 ## Background
@@ -15,6 +16,7 @@ The data sources include core vehicle specifications, available configurations, 
 While the AI methods could include collaborative filtering, used to recommend configurations based on similar users’ choices or simulated annealing.
 
 ## How is it used?
+
 The user can provide all their preferences, then the system evaluates different configurations, returning the top 3 to 5 configurations explaining why each configuration satisfies the user’s requests.
 
 ## Example
