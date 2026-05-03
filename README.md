@@ -21,7 +21,9 @@ The user can provide all their preferences, then the system evaluates different 
 A user with: large budget, focus on track use, preference for carbon fiber and "total black look". They will receive as their first configuration for their 296 the following:
 
 An all black configuration with Fiorano package: 
-![1st conf.](/Screenshot2026-04-09185315.png)
+
+![image alt](https://github.com/ant05-pixel/my-new-project/blob/ecd2a6125e98103cdeea968302511d4aaa5a34a6/Screenshot%202026-04-09%20185524.png)
+
 With a similar description: this configuration satisfies all the user’s preferences using carbon fiber options wherever applicable and preferring black customizations.
 
 One other similar configuration but with Silver Nürburgring livery and matching brake calipers: 
