@@ -25,7 +25,9 @@ An all black configuration with Fiorano package:
 With a similar description: this configuration satisfies all the user’s preferences using carbon fiber options wherever applicable and preferring black customizations.
 
 One other similar configuration but with Silver Nürburgring livery and matching brake calipers: 
-![2nd conf.](/Screenshot_2026-04-09_185524.png)
+
+![image alt](https://github.com/ant05-pixel/my-new-project/blob/25f4f58871198ddbaa84d29895314ac0189c541a/Screenshot%202026-04-09%20185315.png)
+
 With a similar description: this configuration satisfies most of the user’s preferences using carbon fiber options wherever applicable but instead of an “all black look”, there were added Silver Nürburgring livery and aluminum brake calipers that match the livery for a more “track focused” look.
 
 # Challenges 
