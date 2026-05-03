@@ -21,3 +21,18 @@ The user can provide all their preferences, then the system evaluates different 
 A user with: large budget, focus on track use, preference for carbon fiber and "total black look". They will receive as their first configuration for their 296 the following:
 
 An all black configuration with Fiorano package: 
+
+With a similar description: this configuration satisfies all the user’s preferences using carbon fiber options wherever applicable and preferring black customizations.
+
+One other similar configuration but with Silver Nürburgring livery and matching brake calipers: 
+
+With a similar description: this configuration satisfies most of the user’s preferences using carbon fiber options wherever applicable but instead of an “all black look”, there were added Silver Nürburgring livery and aluminum brake calipers that match the livery for a more “track focused” look.
+
+# Challenges 
+The system will have a "cold start" problem as it is more difficult to suggest configurations for new models without historical data from other users (though it will work nonetheless). And while users may not fully agree with the system’s recommendations, the system's primary purpose remains that of aid in decision-making, rather than its replacement.
+
+# What next 
+In the future, the system could be improved by exending it to compare different car models, or possibly a customer collection to create a configuration that fits with the rest of the user's garage.
+
+# Acknowledgments
+Images from Ferrari car configurator: https://carconfigurator.ferrari.com/it_IT
