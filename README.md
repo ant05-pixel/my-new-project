@@ -21,11 +21,11 @@ The user can provide all their preferences, then the system evaluates different 
 A user with: large budget, focus on track use, preference for carbon fiber and "total black look". They will receive as their first configuration for their 296 the following:
 
 An all black configuration with Fiorano package: 
-
+![1st conf.](/Screenshot_2026-04-09_185315.png)
 With a similar description: this configuration satisfies all the user’s preferences using carbon fiber options wherever applicable and preferring black customizations.
 
 One other similar configuration but with Silver Nürburgring livery and matching brake calipers: 
-
+![2nd conf.](/Screenshot_2026-04-09_185524.png)
 With a similar description: this configuration satisfies most of the user’s preferences using carbon fiber options wherever applicable but instead of an “all black look”, there were added Silver Nürburgring livery and aluminum brake calipers that match the livery for a more “track focused” look.
 
 # Challenges 
