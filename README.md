@@ -1,7 +1,7 @@
 # Intelligent Car Configuration Recommender
 Building AI course project
 
-# Summary
+## Summary
 This project proposes an AI-powered recommendation system that assists users in selecting the optimal car configuration based on their preferences, budget, and intended usage. The system should analyze user needs and compare them with historical configuration data and vehicle specifications to generate personalized recommendations.
 
 # Background
